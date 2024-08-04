@@ -1,0 +1,2 @@
+/JPEGImages/2007_003778.jpg /SegmentationClassAug/2007_003778.png
+/JPEGImages/2007_005264.jpg /SegmentationClassAug/2007_005264.png
